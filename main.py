@@ -1,0 +1,2 @@
+print("Ndus gay")
+exit()
