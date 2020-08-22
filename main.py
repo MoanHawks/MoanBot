@@ -1,2 +1,2 @@
-print("Ndus gay")
+print("MoanHawk gay")
 exit()
